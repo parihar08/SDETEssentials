@@ -1,0 +1,34 @@
+{
+	"data": [
+		{
+			"bookName": "Selenium",
+			"purchaseDate": "2020-08-25",
+			"amount": 350,
+			"location": "Australia"
+		},
+		{
+			"bookName": "Java",
+			"purchaseDate": "2020-08-25",
+			"amount": 200,
+			"location": "Asia"
+		},
+		{
+			"bookName": "Python",
+			"purchaseDate": "2020-08-25",
+			"amount": 250,
+			"location": "Australia"
+		},
+		{
+			"bookName": "JMeter",
+			"purchaseDate": "2020-08-25",
+			"amount": 150,
+			"location": "Europe"
+		},
+		{
+			"bookName": "C#",
+			"purchaseDate": "2020-08-25",
+			"amount": 300,
+			"location": "Americas"
+		}
+	]
+}
